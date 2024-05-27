@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AlbyanSchool</string>
+    <string name="dash_board">Albyan School</string>
+    <string name="test_page">إدخال العلامات</string>
+    <string name="History_grade">التاريخ</string>
+    <string name="Madniat_grade">المدنيات</string>
+    <string name="Geography_grade">الجغرافيا</string>
+    <string name="Releage_grade">الدين</string>
+    <string name="Arabic_grade">اللغة العربية</string>
+    <string name="Hebrew_grade">اللغة العبرية</string>
+    <string name="English_grade">الإنجليزي</string>
+    <string name="Math_grade">الرياضيات</string>
+    <string name="Chimistry_grade">الكيمياء</string>
+    <string name="Biology_grade">البيولوجيا</string>
+    <string name="Phisics_grade">الفيزياء</string>
+</resources>

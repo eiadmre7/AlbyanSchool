@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="schools_array">
+        <item>مدرسة الفارابي</item>
+        <item>مدرسة المتنبي</item>
+        <item>مدرسة إبن خلدون</item>
+        <item>مدرسة الحكمة</item>
+    </string-array>
+
+    <string-array name="english_array">
+        <item>المستوى</item>
+        <item>Stage A</item>
+        <item>Stage B</item>
+        <item>Stage C</item>
+
+    </string-array>
+
+    <string-array name="math_array">
+        <item>المستوى</item>
+        <item>عادي</item>
+        <item>متميزون</item>
+
+    </string-array>
+</resources>

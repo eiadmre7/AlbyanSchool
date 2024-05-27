@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971737126428",
+    "project_id": "albyan-1",
+    "storage_bucket": "albyan-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971737126428:android:ef62591cd56780f09f31d9",
+        "android_client_info": {
+          "package_name": "com.example.mysplashscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971737126428-ats44qco474hpmi9agu2a1udg7tki6of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrIgPsi3s2M_q9U3yww-jijWlrIEQQ3l0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971737126428-ats44qco474hpmi9agu2a1udg7tki6of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
